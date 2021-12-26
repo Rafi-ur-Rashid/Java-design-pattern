@@ -5,4 +5,8 @@ Second line added
 Third line added from github
 Fourth line added.
 
-line added from testBranchg
+<<<<<<< HEAD
+line added from testBranchh
+=======
+Line added from MAIN
+>>>>>>> main
